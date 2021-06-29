@@ -4,3 +4,4 @@ print("And now it lives on GitHub")
 
 k = 1
 a = 2
+b = 2
